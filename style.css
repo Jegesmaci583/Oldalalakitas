@@ -110,6 +110,9 @@ footer{
     background: white;
 
 }
+p{
+    font-size: 80%;
+}
 
 @media all and (max-width:600px) {
     main{
